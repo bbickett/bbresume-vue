@@ -2,7 +2,7 @@
   <div class="container-xl">
 
     <div class="page">
-      <div class="ribbon"><a href="/react"><span><small>See in<br/></small><fa-icon icon="fa-brands fa-react"></fa-icon> React</span></a></div>
+      <div class="ribbon"><a href="https://bbresume-react.netlify.app/"><span><small>See in<br/></small><fa-icon icon="fa-brands fa-react"></fa-icon> React</span></a></div>
       <div class="container-fluid">
         <Suspense>
           <router-view></router-view>

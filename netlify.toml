@@ -1,6 +1,6 @@
 [[redirects]]
   from = "/react/*"
-  to = "https://bbresume-react.netlify.app/"
+  to = "https://bbresume-react.netlify.app/:splat"
   status = 200
 
 [[redirects]]
