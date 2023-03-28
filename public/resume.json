@@ -26,7 +26,7 @@
     "summary": "An experienced Full Stack Engineer capable of delivering complex projects through full project life cycle, looking to obtain a position in web development that allows me to use my current knowledge and experience. A team player with excellent analytical, technical, and communication skills looking for the opportunity to continue to learn and be challenged.",
     "experience": [
         {
-            "title": "User Interface Engineer",
+            "title": "Full Stack Engineer",
             "company": "ChannelAdvisor (now CommerceHub)",
             "startdate": "Nov 2021",
             "enddate": "Feb 2023",
@@ -35,7 +35,7 @@
                 "Add new functionality to main application custom grid component",
                 "Upgrade .NET MVC pages to React",
                 "Worked on Agile team",
-                "Coordinate with other teams on implementing new features",
+                "Coordinate with other teams on new features",
                 "Worked with international team members"
             ]
         },
@@ -54,17 +54,6 @@
                 "Research practical applications of using TensorFlow to enhance student and teacher feedback",
                 "Install GitLab Community and setup GitLab Runners for CI/CD",
                 "Create/Maintain documentation using GitLab Wiki"
-            ]
-        },
-        {
-            "title": "Senior Web Applications Engineer",
-            "company": "Interop Technologies",
-            "startdate": "Feb 2016",
-            "enddate": "May 2016",
-            "duties": [
-                "Develop new features and troubleshoot issues for a proprietary web application",
-                "Architect new systems to enhance web application",
-                "Run daily standups"
             ]
         },
         {
@@ -95,7 +84,7 @@
         },
         {
             "title": "Product Manager",
-            "company": "MICROS (Oracle)",
+            "company": "MICROS (now Oracle)",
             "startdate": "Oct 2010",
             "enddate": "Jul 2011",
             "duties": [
@@ -123,24 +112,25 @@
     ],
 
     "skills": [
-        { "skill": "JavaScript", "percent": 95, "type": "language" },
         { "skill": "TypeScript", "percent": 90, "type": "language" },
+        { "skill": "JavaScript", "percent": 95, "type": "language" },
         { "skill": "HTML", "percent": 96, "type": "language" },
+        { "skill": ".NET 6 / C#", "percent": 90, "type": "language" },
         { "skill": "CSS/SCSS", "percent": 96, "type": "language" },
-        { "skill": "C#", "percent": 90, "type": "language" },
-        { "skill": "Python", "percent": 66, "type": "language" },
+        { "skill": "Markdown", "percent": 80, "type": "language" },
         { "skill": "SQL", "percent": 85, "type": "language" },
         { "skill": "Java", "percent": 70, "type": "language" },
+        { "skill": "Python", "percent": 66, "type": "language" },
         
-        { "skill": "Vue", "percent": 85, "type": "library" },
-        { "skill": "React", "percent": 70, "type": "library" },
+        { "skill": "Vue.js", "percent": 85, "type": "library" },
         { "skill": "Bootstrap", "percent": 95, "type": "library" },
         { "skill": "Webpack", "percent": 90, "type": "library" },
-        { "skill": ".NET MVC Core", "percent": 90, "type": "library" },
+        { "skill": "React", "percent": 70, "type": "library" },
         { "skill": "Entity Framework", "percent": 90, "type": "library" },
-        { "skill": ".NET Web Forms", "percent": 95, "type": "library" },
-        { "skill": "TenserFlow", "percent": 50, "type": "library" },
+        { "skill": "Babel", "percent": 90, "type": "library" },
+        { "skill": ".NET MVC", "percent": 90, "type": "library" },
         { "skill": "Django", "percent": 50, "type": "library" },
+        { "skill": "TensorFlow", "percent": 50, "type": "library" },
 
         { "skill": "VS Code", "percent": 90, "type": "devtool" },
         { "skill": "Visual Studio", "percent": 85, "type": "devtool" },
